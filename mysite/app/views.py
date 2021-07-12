@@ -7,7 +7,7 @@ def index(request):
     return HttpResponse('Hello World!')
 
 def test(request):
-	return HttpResponse('Minha segunda view')
+    return HttpResponse('Minha segunda view')
 
 def profile(request):
     parsedData = []

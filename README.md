@@ -1,13 +1,13 @@
 # Django-Git-Search
 
-Simple Django app to fetch Github User Data
+Simple Django app to fetch Github User Data.
 
 ## Installation
 
 ### Clone the Repository
 
 ```
-git clone https://github.com/the-akira/django-git-search.git
+git clone https://github.com/the-akira/Django-Git-Search.git
 ```
 
 ### Inside the Main Directory
@@ -36,4 +36,4 @@ Navigate to `mysite` and Run the Application
 python manage.py runserver
 ```
 
-You can now open your Web Browser and navigate to `http://127.0.0.1:8000/app/profile/` to search for Git Users
+You can now open your Web Browser and navigate to `http://127.0.0.1:8000/app/profile/` to search for Git Users.
